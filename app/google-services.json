@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1091035948746",
+    "firebase_url": "https://smartchatapp-d6c01.firebaseio.com",
+    "project_id": "smartchatapp-d6c01",
+    "storage_bucket": "smartchatapp-d6c01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091035948746:android:61d0c959e0665822",
+        "android_client_info": {
+          "package_name": "com.sap.smartchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091035948746-lq76estmscngtm2j6o4v6i42v71ohrp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sap.smartchatapp",
+            "certificate_hash": "c1b0a9236f6cdaa2793133a454b7b4b8a8deec32"
+          }
+        },
+        {
+          "client_id": "1091035948746-rkntl72equqr9r4l0k90b5v91m2dk4f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCpI03hdmvrEBBBhydehgqlVf8m3qxGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091035948746-rkntl72equqr9r4l0k90b5v91m2dk4f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
